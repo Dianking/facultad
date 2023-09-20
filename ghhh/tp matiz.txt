@@ -1,0 +1,7 @@
+hace un codigo que con dos vectores carga 10 espacio con numeros alazar entre 20 y 35 
+la primera ocion del menu deve mostrar cauntos datos se repiten en cada vector 
+segunda opcion debe moastrar loa datos no se repitan 
+tercera opcion debe mostrar la union entre ambos vetores 
+cuatas opcion debe mostra las intercecion entre ambos vectores 
+quita opcion deve mostrar la resta del primer vector y del segundo 
+sexta deve mostrar la resta de segundo - primero 
